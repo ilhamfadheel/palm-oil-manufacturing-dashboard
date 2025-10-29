@@ -1,3 +1,6 @@
+<img width="1438" height="684" alt="image" src="https://github.com/user-attachments/assets/9d224ce7-233f-4be8-b4b0-c4ae23d15534" />
+
+
 # Palm Oil Manufacturing Dashboard
 
 AI-powered dashboard for palm oil manufacturing optimization with real-time supply chain management and predictive analytics.
@@ -368,3 +371,13 @@ npm run start
 ## 📄 License
 
 This project is for educational and demonstration purposes.
+
+## Screenshots
+
+<img width="1440" height="695" alt="image" src="https://github.com/user-attachments/assets/066f7dbe-ae64-431a-9582-12c97fb7337a" />
+<img width="1439" height="696" alt="image" src="https://github.com/user-attachments/assets/8447e606-bd4e-4795-85e7-52b6f93355f3" />
+<img width="1440" height="689" alt="image" src="https://github.com/user-attachments/assets/4bdd7124-7b62-4f84-98bd-5d1603dda664" />
+<img width="1440" height="695" alt="image" src="https://github.com/user-attachments/assets/ac63397d-8f32-4e9d-92e8-f327b6cbf3b8" />
+<img width="1440" height="693" alt="image" src="https://github.com/user-attachments/assets/310c2460-3418-4806-8429-5f55f9edb795" />
+<img width="1440" height="692" alt="image" src="https://github.com/user-attachments/assets/fe046ef8-080c-410c-bbc1-e8340000ac21" />
+
